@@ -28,7 +28,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://mujtabamft7.github.io/",
+  "homepage": "https://mujtabamft7.github.io/MAStudios",
   "eslintConfig": {
     "extends": [
       "react-app",
