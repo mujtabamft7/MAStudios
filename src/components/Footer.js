@@ -1,7 +1,6 @@
 import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
-
 const Footer = () => (
   <footer className="footer">
     <div className="footer-links">
@@ -9,8 +8,8 @@ const Footer = () => (
         <h4>Watch</h4>
         <ul>
           <li><a href="#">Spotlight</a></li>
-          <li><a href="http://localhost:3000/movies">Movies</a></li>
-          <li><a href="http://localhost:3000/tvshows">TV</a></li>
+          <li><a href="/movies">Movies</a></li>
+          <li><a href="/tvshows">TV</a></li>
           <li><a href="#">Free</a></li>
         </ul>
       </div>
