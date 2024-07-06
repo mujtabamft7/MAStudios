@@ -1,0 +1,2572 @@
+{
+    "genres": [
+        "Comedy",
+        "Fantasy",
+        "Crime",
+        "Drama",
+        "Music",
+        "Adventure",
+        "History",
+        "Thriller",
+        "Animation",
+        "Family",
+        "Mystery",
+        "Biography",
+        "Action",
+        "Film-Noir",
+        "Romance",
+        "Sci-Fi",
+        "War",
+        "Western",
+        "Horror",
+        "Musical",
+        "Sport"
+    ],
+
+    "tvShows": [
+            {
+                "id": 2734,
+                "title": "Law & Order: Special Victims Unit",
+                "year": "1999",
+                "genres": [
+                    "Crime",
+                    "Drama",
+                    "Mystery"
+                ],
+                "rating": 7.921,
+                "plot": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+                "posterUrl": "https://image.tmdb.org/t/p/w500/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg"
+            },
+        {
+            "id": 1434,
+            "title": "Family Guy",
+            "year": "1999",
+            "genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "rating": 7.339,
+            "plot": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg"
+        },
+        {
+            "id": 456,
+            "title": "The Simpsons",
+            "year": "1989",
+            "genres": [
+                "Family",
+                "Animation",
+                "Comedy"
+            ],
+            "rating": 8.014,
+            "plot": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vHqeLzYl3dEAutojCO26g0LIkom.jpg"
+        },
+        {
+            "id": 1431,
+            "title": "CSI: Crime Scene Investigation",
+            "year": "2000",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "rating": 7.621,
+            "plot": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
+        },
+        {
+            "id": 94997,
+            "title": "House of the Dragon",
+            "year": "2022",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Drama",
+                "Action & Adventure"
+            ],
+            "rating": 8.419,
+            "plot": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg"
+        },
+        {
+            "id": 44006,
+            "title": "Chicago Fire",
+            "year": "2012",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.4,
+            "plot": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2yaeYNplMuLGNjBigMFsek7UZmq.jpg"
+        },
+        {
+            "id": 76479,
+            "title": "The Boys",
+            "year": "2019",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Action & Adventure"
+            ],
+            "rating": 8.47,
+            "plot": "A group of vigilantes known informally as \u201cThe Boys\u201d set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+        },
+        {
+            "id": 1622,
+            "title": "Supernatural",
+            "year": "2005",
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 8.295,
+            "plot": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg"
+        },
+        {
+            "id": 235484,
+            "title": "Suidooster",
+            "year": "2015",
+            "genres": [
+                "Soap"
+            ],
+            "rating": 8.273,
+            "plot": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/naCgSiacvV685kait6fBvhVhdce.jpg"
+        },
+        {
+            "id": 1416,
+            "title": "Grey's Anatomy",
+            "year": "2005",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.232,
+            "plot": "Follows the personal and professional lives of a group of doctors at Seattle\u2019s Grey Sloan Memorial Hospital.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jcEl8SISNfGdlQFwLzeEtsjDvpw.jpg"
+        },
+        {
+            "id": 209374,
+            "title": "Top Chef VIP",
+            "year": "2022",
+            "genres": [
+                
+                "Drama"
+                
+            ],
+            "rating": 5.0,
+            "plot": "A group of celebrities put their cooking skills to the test and are judged by a panel of professional chefs with two contestants eliminated each week.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/cw6M4c2MpLSzqzmrrqpSJlEbwCF.jpg"
+        },
+        {
+            "id": 4057,
+            "title": "Criminal Minds",
+            "year": "2005",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "rating": 8.32,
+            "plot": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg"
+        },
+        {
+            "id": 59941,
+            "title": "The Tonight Show Starring Jimmy Fallon",
+            "year": "2014",
+            "genres": [
+                "Comedy",
+                "Talk"
+            ],
+            "rating": 5.83,
+            "plot": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/d735cGL2G07Tb0ysLHStu8c0uo8.jpg"
+        },
+        {
+            "id": 549,
+            "title": "Law & Order",
+            "year": "1990",
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "rating": 7.351,
+            "plot": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg"
+        },
+        {
+            "id": 4614,
+            "title": "NCIS",
+            "year": "2003",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Action & Adventure"
+            ],
+            "rating": 7.628,
+            "plot": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2exOHePjOTquUsbThPGhuEjYTyA.jpg"
+        },
+        {
+            "id": 235493,
+            "title": "De Bondgenoten",
+            "year": "2023",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 6.875,
+            "plot": "",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg"
+        },
+        {
+            "id": 39272,
+            "title": "Once Upon a Time",
+            "year": "2011",
+            "genres": [
+                "Drama",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 7.36,
+            "plot": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.\n\nEmma Swan is a 28-year-old bail bonds collector who has been supporting herself since she was abandoned as a baby. Things change for her when her son Henry, whom she abandoned years ago, finds her and asks for her help explaining that she is from a different world where she is Snow White's missing daughter.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/u95scYysMZvBoekSLmMNJjeqXcY.jpg"
+        },
+        {
+            "id": 71728,
+            "title": "Young Sheldon",
+            "year": "2017",
+            "genres": [
+                "Comedy",
+                "Family"
+            ],
+            "rating": 8.1,
+            "plot": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tKwjkqTSq5fJdSxIk4yOh61tOKD.jpg"
+        },
+        {
+            "id": 17380,
+            "title": "The Real Housewives of Atlanta",
+            "year": "2008",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 6.058,
+            "plot": "Bravo's cameras turn to the Southern states as the network presents this inside look at the Real Housewives of Atlanta. These women handle the personal dramas that affect their affluent lifestyles with a signature Southern brand of \u201cstyle\u201d and \u201cgrace.\u201d",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/h5HYOsyc1sJQYjqevaWEaLRjd6E.jpg"
+        },
+        {
+            "id": 3137,
+            "title": "Babylon 5",
+            "year": "1994",
+            "genres": [
+                "Drama",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 8.064,
+            "plot": "Babylon 5 is a five-mile long space station located in neutral space. Built by the Earth Alliance in the 2250s, its goal is to maintain peace among the various alien races by providing a sanctuary where grievances and negotiations can be worked out among duly appointed ambassadors. A council made up of representatives from the five major space-faring civilizations - the Earth Alliance, Minbari Federation, Centauri Republic, Narn Regime, and Vorlon Empire - work with the League of Non-Aligned Worlds to keep interstellar relations under control. Aside from its diplomatic function, Babylon 5 also serves as a military post for Earth and a port of call for travelers, traders, businessmen, criminals, and Rangers.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rj87TqwabgJzslrH4G6BCDseBKV.jpg"
+        },
+        {
+            "id": 239526,
+            "title": "Sue\u00f1os de libertad",
+            "year": "2024",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 6.0,
+            "plot": "",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/95RVeMWMvk97PBW0msryIJC32XD.jpg"
+        },
+        {
+            "id": 269,
+            "title": "One Tree Hill",
+            "year": "2003",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.715,
+            "plot": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife Deb and their son Nathan.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"
+        },
+        {
+            "id": 1400,
+            "title": "Seinfeld",
+            "year": "1989",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 8.282,
+            "plot": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg"
+        },
+        {
+            "id": 46952,
+            "title": "The Blacklist",
+            "year": "2013",
+            "genres": [
+                "Drama",
+                "Crime",
+                "Mystery"
+            ],
+            "rating": 7.619,
+            "plot": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/r935SMphvXppx5bJjbIBNx02fwc.jpg"
+        },
+        {
+            "id": 60735,
+            "title": "The Flash",
+            "year": "2014",
+            "genres": [
+                "Drama",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 7.786,
+            "plot": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg"
+        },
+        {
+            "id": 215709,
+            "title": "Redemption",
+            "year": "2022",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.5,
+            "plot": "Orhun is a successful businessman who was raised in a wealthy but loveless family along with his twin sister Nihan, younger sister Nur\u015fah and their cold, distant mother Afife. Nihan left to do volunteer work as a doctor in Eritrea, but recently she has been impossible to contact, and her family is worried about her. While looking for his sister, he comes across Hira, a poor girl living the life of a prisoner at the hands of traffickers. When they find out that Nihan has been poisoned and killed by a local gang, Orhun breaks down. When it emerges that it was actually Hira who poisoned his sister, Orhun hatches an evil revenge plan. Meanwhile, Afife, their mother, has kept Orhun's father away since his childhood secretly. Orhun decides to marry Hira as revenge. Afife hates people of lower status and she\u2019s obsessed with \u201cpure blood\u201d. Will this marriage imprison Afife , or will the couple find redemption after paying all their dues?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/d1YiLLhjGnCoC0D4G0ri2MloFqO.jpg"
+        },
+        {
+            "id": 2224,
+            "title": "The Daily Show",
+            "year": "1996",
+            "genres": [
+                "News",
+                "Comedy"
+            ],
+            "rating": 6.31,
+            "plot": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg"
+        },
+        {
+            "id": 60574,
+            "title": "Peaky Blinders",
+            "year": "2013",
+            "genres": [
+                "Drama",
+                "Crime"
+            ],
+            "rating": 8.539,
+            "plot": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+        },
+        {
+            "id": 242722,
+            "title": "Shrimad Ramayan",
+            "year": "2024",
+            "genres": [
+                "Drama",
+                "Family"
+            ],
+            "rating": 9.0,
+            "plot": "Shrimad Ramayan is an ambitious television series that brings to life the timeless epic, the Ramayan, with a deep commitment to authenticity, cultural reverence and a contemporary sensibility.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg"
+        },
+        {
+            "id": 2458,
+            "title": "CSI: NY",
+            "year": "2004",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "rating": 7.344,
+            "plot": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xqiTpKqKhBwcBWh9jUm7anyatzD.jpg"
+        },
+        {
+            "id": 237480,
+            "title": "No Rancho Fundo",
+            "year": "2024",
+            "genres": [
+                "Soap",
+                "Drama",
+                "Comedy"
+            ],
+            "rating": 5.409,
+            "plot": "",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eONkvEahSQJan1HTzWJKjvaMe29.jpg"
+        },
+        {
+            "id": 91239,
+            "title": "Bridgerton",
+            "year": "2020",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.139,
+            "plot": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg"
+        },
+        {
+            "id": 57243,
+            "title": "Doctor Who",
+            "year": "2005",
+            "genres": [
+                "Action & Adventure",
+                "Drama",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 7.5,
+            "plot": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living\u2014more of a hobby actually, and the Doctor's very, very good at it.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg"
+        },
+        {
+            "id": 32692,
+            "title": "Blue Bloods",
+            "year": "2010",
+            "genres": [
+                "Drama",
+                "Crime"
+            ],
+            "rating": 7.772,
+            "plot": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg"
+        },
+        {
+            "id": 2317,
+            "title": "My Name Is Earl",
+            "year": "2005",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 7.675,
+            "plot": "When petty criminal Earl Hickey wins the lottery, he sets off on a quest to repair his questionable karma.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg"
+        },
+        {
+            "id": 45857,
+            "title": "REBORN!",
+            "year": "2006",
+            "genres": [
+                "Animation",
+                "Comedy",
+                "Action & Adventure"
+            ],
+            "rating": 8.1,
+            "plot": "\"No Good\" Tsunayoshi Sawada is next in line to become boss of the powerful Vongola mafia family. The Vongolas' most powerful hitman, a cursed gun-toting infant named Reborn, is sent to teach Tsuna how to be a boss.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg"
+        },
+        {
+            "id": 1405,
+            "title": "Dexter",
+            "year": "2006",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "rating": 8.196,
+            "plot": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
+        },
+        {
+            "id": 2140,
+            "title": "Everybody Loves Raymond",
+            "year": "1996",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 6.777,
+            "plot": "Ray Barone is a successful sportswriter living on Long Island with his wife Debra, daughter Ally, and twin sons, Geoffrey and Michael. That's the good news. The bad news? Ray's meddling parents, Frank and Marie, live directly across the street and embrace the motto \"Su casa es mi casa,\" infiltrating their son's home to an extent unparalleled in television history.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/o9CpdeibaCddxQusyDSqwHDxiLl.jpg"
+        },
+        {
+            "id": 243487,
+            "title": "Vivir de amor",
+            "year": "2024",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.577,
+            "plot": "",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg"
+        },
+        {
+            "id": 1100,
+            "title": "How I Met Your Mother",
+            "year": "2005",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 8.158,
+            "plot": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg"
+        },
+        {
+            "id": 242722,
+            "title": "Shrimad Ramayan",
+            "year": "2024",
+            "genres": [
+                "Drama",
+                "Family"
+            ],
+            "rating": 9.0,
+            "plot": "Shrimad Ramayan is an ambitious television series that brings to life the timeless epic, the Ramayan, with a deep commitment to authenticity, cultural reverence and a contemporary sensibility.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg"
+        },
+        {
+            "id": 243117,
+            "title": "Plus belle la vie, encore plus belle",
+            "year": "2024",
+            "genres": [
+                "Soap",
+                "Drama"
+            ],
+            "rating": 3.0,
+            "plot": "",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5js5JCtxfiYF2MdNn0zGyCwyg8L.jpg"
+        },
+        {
+            "id": 1412,
+            "title": "Arrow",
+            "year": "2012",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Action & Adventure"
+            ],
+            "rating": 6.8,
+            "plot": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+        },
+        {
+            "id": 2883,
+            "title": "Dark Shadows",
+            "year": "1966",
+            "genres": [
+                "Drama",
+                "Sci-Fi & Fantasy",
+                "Soap"
+            ],
+            "rating": 6.993,
+            "plot": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also featured werewolves, zombies, man-made monsters, witches, warlocks, time travel, and a parallel universe. A small company of actors each played many roles; indeed, as actors came and went, some characters were played by more than one actor. Major writers besides Art Wallace included Malcolm Marmorstein, Sam Hall, Gordon Russell, and Violet Welles.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg"
+        },
+        {
+            "id": 71712,
+            "title": "The Good Doctor",
+            "year": "2017",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.492,
+            "plot": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/53P8oHo9cfOsgb1cLxBi4pFY0ja.jpg"
+        },
+        {
+            "id": 242101,
+            "title": "Cacau",
+            "year": "2024",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.0,
+            "plot": "Cacau is an engaging saga of family secrets, clandestine loves and sacrifices, all sweetened by the irresistible taste of chocolate and the magic of cocoa plantations.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nNCFBKZ68fmr008moWSzLdu2mUP.jpg"
+        },
+        {
+            "id": 37680,
+            "title": "Suits",
+            "year": "2011",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.221,
+            "plot": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vQiryp6LioFxQThywxbC6TuoDjy.jpg"
+        },
+        {
+            "id": 242099,
+            "title": "Senhora do Mar",
+            "year": "2024",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.5,
+            "plot": "",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wy4tkwuoWMGEa5Wi8dCvLVuxBzt.jpg"
+        },
+        {
+            "id": 2426,
+            "title": "Angel",
+            "year": "1999",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Drama"
+            ],
+            "rating": 7.9,
+            "plot": "The vampire Angel, cursed with a soul, moves to Los Angeles and aids people with supernatural-related problems while questing for his own redemption. A spin-off from Buffy the Vampire Slayer.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zMCLpQcsyn4ceQ6KWEnHfUFDhVh.jpg"
+        },
+        {
+            "id": 246331,
+            "title": "Su Ji and U Ri",
+            "year": "2024",
+            "genres": [
+                "Family",
+                "Drama"
+            ],
+            "rating": 6.3,
+            "plot": "A healing romance begins between fallen star doctor Jin Su Ji and stubborn newbie doctor Choi U Ri.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bGVdZ8nc99GIwCDxmXpGP0oCSzT.jpg"
+        },
+        {
+            "id": 10536,
+            "title": "The Mike Douglas Show",
+            "year": "1961",
+            "genres": [
+                "Comedy",
+                "Talk"
+            ],
+            "rating": 4.833,
+            "plot": "The Mike Douglas Show is an American daytime television talk show hosted by Mike Douglas that originally aired only in the Cleveland area during much of its first two years on the air. It then went into syndication in 1963 and remained on television until 1982. It was distributed by Westinghouse Broadcasting and for much of its run, originated from studios of two of the company's TV stations in Cleveland and Philadelphia.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qNk97cbF3dZyhkfIcJhjFDD64sM.jpg"
+        },
+        {
+            "id": 2585,
+            "title": "Heartbeat",
+            "year": "1992",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Comedy"
+            ],
+            "rating": 7.0,
+            "plot": "Set during the 1960s in the fictional North Yorkshire village of Aidensfield, this enduringly popular series interweaves crime and medical storylines.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jAmkMnqyKP6kD9QlXvJxkxMLwDB.jpg"
+        },
+        {
+            "id": 71738,
+            "title": "The Orville",
+            "year": "2017",
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 7.593,
+            "plot": "Follow the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg"
+        },
+        {
+            "id": 2593,
+            "title": "Without a Trace",
+            "year": "2002",
+            "genres": [
+                "Crime",
+                "Mystery",
+                "Action & Adventure",
+                "Drama"
+            ],
+            "rating": 7.296,
+            "plot": "The series follows the ventures of a Missing Persons Unit of the FBI in New York City.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg"
+        },
+        {
+            "id": 2190,
+            "title": "South Park",
+            "year": "1997",
+            "genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "rating": 8.364,
+            "plot": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg"
+        },
+        {
+            "id": 223365,
+            "title": "Rebirth",
+            "year": "2024",
+            "genres": [
+                "Soap",
+                "Drama"
+            ],
+            "rating": 7.1,
+            "plot": "After making a pact with Jequitib\u00e1, Jos\u00e9 Inoc\u00eancio becomes a mythical figure, known as the most successful cocoa farmer in the region. While still young, he wins the heart of Maria Santa. Their intense passion results in four children: Jos\u00e9 Augusto, Jos\u00e9 Bento, Jos\u00e9 Ven\u00e2ncio, and the youngest, Jo\u00e3o Pedro, who never had the opportunity to know his mother, as she dies while giving birth to him. This tragedy fuels Jos\u00e9 Inoc\u00eancio\u2019s anger, blaming Jo\u00e3o Pedro for the loss of his great love. Throughout their lives, indifference and resentment mark the relationship between the father and his youngest son. As if the past weren\u2019t enough, years later, the arrival of the mysterious Mariana puts all these emotions to the test when both father and son fall in love with the same woman. This situation reawakens feelings that were either dormant or previously unknown to them.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kUWvvMkNIf21UUDmHjYw55v6o7C.jpg"
+        },
+        {
+            "id": 63174,
+            "title": "Lucifer",
+            "year": "2016",
+            "genres": [
+                "Crime",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 8.47,
+            "plot": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals.\u00a0But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+        },
+        {
+            "id": 4014,
+            "title": "The Flying Doctors",
+            "year": "1986",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 6.5,
+            "plot": "The Flying Doctors is an Australian drama series produced by Crawford Productions that revolved around the everyday lifesaving efforts of the real Royal Flying Doctor Service of Australia.\n\nIt was initially a 1985 mini-series based in the fictional outback town of Cooper's Crossing starring Andrew McFarlane as the newly arrived Dr. Tom Callaghan. The success of the mini series led to its return the following year as an on-going series with McFarlane being joined by a new doctor, Chris Randall, played by Liz Burch. McFarlane left during the first season and actor Robert Grubb came in as new doctor Geoff Standish.\n\nThe series' episodes were mostly self-contained but also featured ongoing storylines, such as Dr. Standish's romance with Sister Kate Wellings. Other major characters included pilot Sam Patterson, mechanic Emma Plimpton, local policeman Sgt. Jack Carruthers and Vic and Nancy Buckley, who ran the local pub/hotel, The Majestic. Andrew McFarlane also later returned to the series, resuming his role as Dr. Callaghan. The popular series ran for nine seasons and was successfully screened internationally.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/Aj4xa7lo9RwTV6DpZ3Pcjgp26Ht.jpg"
+        },
+        {
+            "id": 1018,
+            "title": "Bonanza",
+            "year": "1959",
+            "genres": [
+                "Western",
+                "Action & Adventure",
+                "Drama",
+                "Family"
+            ],
+            "rating": 7.533,
+            "plot": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/y2jYBuTrC62hneBRs92LwxavMoV.jpg"
+        },
+        {
+            "id": 10222,
+            "title": "The Real Housewives of Orange County",
+            "year": "2006",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 5.5,
+            "plot": "A view into the lives of several women and their families who live in one of the wealthiest communities in the country with the viewer taken \"inside the gates\" to show their lives aren't always perfect.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mEg3ohdBkLOs0L1GmYGtiwyJXlE.jpg"
+        },
+        {
+            "id": 1395,
+            "title": "Gossip Girl",
+            "year": "2007",
+            "genres": [
+                "Drama",
+                "Mystery"
+            ],
+            "rating": 8.248,
+            "plot": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hvDlmhoImfX5oUYS2gXxsMrpSTB.jpg"
+        },
+        {
+            "id": 1781,
+            "title": "Little House on the Prairie",
+            "year": "1974",
+            "genres": [
+                "Western",
+                "Drama",
+                "Family"
+            ],
+            "rating": 7.954,
+            "plot": "Little House on the Prairie is an American Western drama television series, starring Michael Landon, Melissa Gilbert, and Karen Grassle, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg"
+        },
+        {
+            "id": 2327,
+            "title": "Dawson's Creek",
+            "year": "1998",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.35,
+            "plot": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/arT93dBemanftfWTcf9I0JRIlxU.jpg"
+        },
+        {
+            "id": 222289,
+            "title": "Fam\u00edlia \u00e9 Tudo",
+            "year": "2024",
+            "genres": [
+                "Comedy",
+                "Soap",
+                "Action & Adventure"
+            ],
+            "rating": 6.4,
+            "plot": "Five half-siblings \u2013 Venus, Andromeda, Jupiter, Electra, and Plutao \u2013 share the same father, Pedro. Separated by their respective mothers after Pedro's death, the quintet have had few social and intimate interactions since. Years later, now adults, they reunite when their millionaire grandmother disappears on a cruise and is presumed dead. To earn their inheritance, they will have to live and work together for a year in an attempt to bring the family business back to its peak. If they don't succeed, the inheritance will go to their cousin, Hans, who will do anything to get the money from his aunt.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tDbJuSfVhf3ZnxiJrXlXEALyAz5.jpg"
+        },
+        {
+            "id": 3022,
+            "title": "Rugrats",
+            "year": "1991",
+            "genres": [
+                "Family",
+                "Animation",
+                "Comedy"
+            ],
+            "rating": 7.599,
+            "plot": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/corsUEMQqLn9Ug392B1ek40gmqK.jpg"
+        },
+        {
+            "id": 3828,
+            "title": "Hill Street Blues",
+            "year": "1981",
+            "genres": [
+                "Drama",
+                "Crime"
+            ],
+            "rating": 7.552,
+            "plot": "A realistic glimpse into the daily lives of the officers and detectives at an urban police station.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mMfqHsOeI0yLwifmfCRGTaItvTS.jpg"
+        },
+        {
+            "id": 1877,
+            "title": "Phineas and Ferb",
+            "year": "2007",
+            "genres": [
+                "Animation",
+                "Comedy",
+                "Family",
+                "Sci-Fi & Fantasy"
+            ],
+            "rating": 7.853,
+            "plot": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg"
+        },
+        {
+            "id": 2730,
+            "title": "I Love Lucy",
+            "year": "1951",
+            "genres": [
+                "Comedy",
+                "Family"
+            ],
+            "rating": 8.0,
+            "plot": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg"
+        },
+        {
+            "id": 4546,
+            "title": "Curb Your Enthusiasm",
+            "year": "2000",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 8.0,
+            "plot": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mZqWmSq1M61Jlre3furVDSXvdrN.jpg"
+        },
+        {
+            "id": 2041,
+            "title": "McLeod's Daughters",
+            "year": "2001",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.2,
+            "plot": "When Jack McLeod passes away, his two daughters inherit Drovers Run, a vast cattle ranch in the Australian outback. Ultimately, Tess and Claire decide to run the ranch together, with their housekeeper, Meg, her teenage daughter, Jodi, and a local girl, Becky. Their lives are hard and the obstacles many, but the rewards are every bit as grand as the wild open land they've inherited.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/twQwGmxL6XFdpSBikzINOdVm17M.jpg"
+        },
+        {
+            "id": 248155,
+            "title": "The Brave Yong Soo-jung",
+            "year": "2024",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.5,
+            "plot": "An ingenuous home-shopping host Su Jeong dreams of becoming a successful businesswoman who wins people before money. After losing her parents as a kid, she travels around the country with tinker Jang Won and grows up as a strong woman full of courage. She may look fierce on the outside, but in fact, she is a softhearted, clumsy crybaby and a dork who cannot even make eye contact with her crush, Joo Woo Jin. Meanwhile, there is Yeo Eui Ju, a man who gets on her nerves by loafing around her. As a soldier, he is more logical rather than empathetic, but he passes out whenever he gets drunk. He loses his face after meeting Su Jeong, who drinks like a fish, but he starts to fall for her. By a twist of fate, he realizes he is the second grandson of Masung Group, and his older brother is Su Jeong's crush, Woo Jin.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/v0Ld4z1pn61Ojb6ujfsyTZoFNPV.jpg"
+        },
+        {
+            "id": 62858,
+            "title": "Colony",
+            "year": "2016",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Drama"
+            ],
+            "rating": 6.821,
+            "plot": "In the near future a family must make difficult decisions as they balance staying together with trying to survive. They live in Los Angeles, which has been occupied by a force of outside intruders.  While some people have chosen to collaborate with the authorities and benefit from the new order, others have rebelled \u2014 and suffer the consequences.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg"
+        },
+        {
+            "id": 21728,
+            "title": "The Alfred Hitchcock Hour",
+            "year": "1962",
+            "genres": [
+                "Crime",
+                "Mystery",
+                "Drama"
+            ],
+            "rating": 7.696,
+            "plot": "A continuation of the anthology series \u201cAlfred Hitchcock Presents\u201d, hosted by the master of suspense and featuring thrillers and mysteries.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1VXTfckVsiNRqhWs9fdozyljuGy.jpg"
+        },
+        {
+            "id": 2288,
+            "title": "Prison Break",
+            "year": "2005",
+            "genres": [
+                "Action & Adventure",
+                "Crime",
+                "Drama"
+            ],
+            "rating": 8.1,
+            "plot": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg"
+        },
+        {
+            "id": 39269,
+            "title": "Scandal",
+            "year": "2012",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.154,
+            "plot": "Everyone has secrets and Olivia Pope has dedicated her life to protecting and defending the public images of the elite by keeping those secrets under wraps. Pope and her team are at the top of their game when it comes to getting the job done for their clients, but it becomes apparent that these \"gladiators in suits,\" who specialize in fixing the lives of other people, have trouble fixing those closest at hand -- their own.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg"
+        },
+        {
+            "id": 39793,
+            "title": "Call the Midwife",
+            "year": "2012",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.5,
+            "plot": "Drama following the lives of a group of midwives working in the poverty-stricken East End of London during the 1950s, based on the best-selling memoirs of Jennifer Worth.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg"
+        },
+        {
+            "id": 58841,
+            "title": "Chicago P.D.",
+            "year": "2014",
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "rating": 8.423,
+            "plot": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mZObarMPF76PGVmwywQ7Ks4UFpR.jpg"
+        },
+        {
+            "id": 79744,
+            "title": "The Rookie",
+            "year": "2018",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Comedy"
+            ],
+            "rating": 8.407,
+            "plot": "Starting over isn\u2019t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force\u2019s oldest rookie, he\u2019s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg"
+        },
+        {
+            "id": 1399,
+            "title": "Game of Thrones",
+            "year": "2011",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Drama",
+                "Action & Adventure"
+            ],
+            "rating": 8.451,
+            "plot": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
+        },
+        {
+            "id": 223129,
+            "title": "Ik Weet Er Alles Van!",
+            "year": "2019",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 8.1,
+            "plot": "Quiz in which six candidates, each with their own specialism, try to win a large amount of money for a week. In addition to factual knowledge, human knowledge also plays an important role. The participants can challenge each other to a duel and run off with each other's money. Who knows the most and has the best strategy?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/syHeo1w0EK44qTC6sbB2mckuvVN.jpg"
+        },
+        {
+            "id": 3365,
+            "title": "Grange Hill",
+            "year": "1978",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 6.5,
+            "plot": "Children's drama series following the lives of students and teachers at Grange Hill comprehensive school.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8SziJYek4dEumfweUY9GnnOtcJS.jpg"
+        },
+        {
+            "id": 4046,
+            "title": "Spooks",
+            "year": "2002",
+            "genres": [
+                "Drama",
+                "Action & Adventure",
+                "Crime"
+            ],
+            "rating": 7.6,
+            "plot": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5kODxCYihuM49oQWke6GfHdsRT6.jpg"
+        },
+        {
+            "id": 4604,
+            "title": "Smallville",
+            "year": "2001",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Action & Adventure",
+                "Drama"
+            ],
+            "rating": 8.2,
+            "plot": "The origins of the world\u2019s greatest hero\u2013from Krypton refugee Kal-el\u2019s arrival on Earth through his tumultuous teen years to Clark Kent\u2019s final steps toward embracing his destiny as the Man of Steel.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aznhgiLDoxD3LWFY5USjJ4eewtL.jpg"
+        },
+        {
+            "id": 63247,
+            "title": "Westworld",
+            "year": "2016",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Western"
+            ],
+            "rating": 8.0,
+            "plot": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg"
+        },
+        {
+            "id": 17937,
+            "title": "Ghost Adventures",
+            "year": "2008",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 7.8,
+            "plot": "Paranormal investigator Zak Bagans and his crew, Nick Groff and Aaron Goodwin, search for haunted locations both domestically and internationally. During their investigations, Zak and crew acquaint themselves with the general area; interview locals about the hauntings; and go face-to-face with the evil spirits who reportedly haunt these locations.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xLJZuDxdeUqRFHFlqs0mIk9faMR.jpg"
+        },
+        {
+            "id": 40605,
+            "title": "Die Harald Schmidt Show",
+            "year": "1995",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 6.9,
+            "plot": "The Harald Schmidt Show is a German late night talk show hosted on Sky Deutschland by comedian Harald Schmidt. The show first aired from 5 December 1995 to 23 December 2003 on Sat.1. Schmidt then moved his show to Das Erste as Harald Schmidt and Schmidt & Pocher, but he returned to Sat.1 on 13 September 2011. After cancellation on Sat.1, the show continued on Sky Deutschland in September 2012.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lQcE1AzjDP5zJRUW76PMRn7ai9W.jpg"
+        },
+        {
+            "id": 249010,
+            "title": "Kelders van Geheime",
+            "year": "2024",
+            "genres": [
+                "Soap"
+            ],
+            "rating": 7.0,
+            "plot": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter \u2013 and a glass of wine.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg"
+        },
+        {
+            "id": 206559,
+            "title": "Binnelanders",
+            "year": "2005",
+            "genres": [
+                "Soap"
+            ],
+            "rating": 5.6,
+            "plot": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg"
+        },
+        {
+            "id": 122653,
+            "title": "Gutfeld!",
+            "year": "2021",
+            "genres": [
+                "Comedy",
+                "Talk"
+            ],
+            "rating": 4.667,
+            "plot": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/9zLuN3MfvTcABYYNJq5PkIG81S5.jpg"
+        },
+        {
+            "id": 1668,
+            "title": "Friends",
+            "year": "1994",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 8.439,
+            "plot": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
+        },
+        {
+            "id": 52,
+            "title": "That '70s Show",
+            "year": "1998",
+            "genres": [
+                "Comedy",
+                "Family",
+                "Drama"
+            ],
+            "rating": 7.957,
+            "plot": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric\u2019s basement, life in the \u201870s isn\u2019t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they\u2019ve learned one thing for sure: they\u2019ll always get by with a little help from their friends.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1rzL6DVmCSZ3jzLFon8mhYcRsUK.jpg"
+        },
+        {
+            "id": 12786,
+            "title": "Murdoch Mysteries",
+            "year": "2008",
+            "genres": [
+                "Mystery",
+                "Drama"
+            ],
+            "rating": 7.703,
+            "plot": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bGh2JSvl2Yb7wcK8UVVjW8Tjb5U.jpg"
+        },
+        {
+            "id": 2430,
+            "title": "Doc Martin",
+            "year": "2004",
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "rating": 8.189,
+            "plot": "Doc Martin is a British television comedy drama series starring Martin Clunes in the title role. It was created by Dominic Minghella after the character of Dr. Martin Bamford in the 2000 comedy film Saving Grace. The show is set in the fictional seaside village of Portwenn and filmed on location in the village of Port Isaac, Cornwall, England, with most interior scenes shot in a converted local barn. Five series aired between 2004 and 2011, together with a feature-length special that aired on Christmas Day 2006. Series 6 began airing on ITV on 2 September 2013.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gNo0wunjGXpGMNA4ohsj2FkfUBV.jpg"
+        },
+        {
+            "id": 248890,
+            "title": "Ready Steady Cook South Africa",
+            "year": "2024",
+            "genres": [
+                "Reality"
+            ],
+            "rating": 1.0,
+            "plot": "In Ready Steady Cook, two teams - a Red Tomato and a Green Pepper - compete in a Red Kitchen and a Green Kitchen, together with a South African chef on each side and paired with enthusiastic home cooks, as they are challenged creatively with a mystery bag of ingredients in a 20-minute cook-off.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/o91MKmBcOMUMIfj5egqPPm9WwK3.jpg"
+        },
+        {
+            "id": 1398,
+            "title": "The Sopranos",
+            "year": "1999",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.642,
+            "plot": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and prot\u00e9g\u00e9 Christopher Moltisanti.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg"
+        },
+        {
+            "id": 10283,
+            "title": "Archer",
+            "year": "2009",
+            "genres": [
+                "Comedy",
+                "Action & Adventure",
+                "Animation"
+            ],
+            "rating": 7.935,
+            "plot": "Sterling Archer is the world's most daunting spy. He works for ISIS, a spy agency run by his mother. In between dealing with his boss and his co-workers - one of whom is his ex-girlfriend - Archer manages to annoy or seduce everyone that crosses his path. His antics are only excusable because at the end of the day, he still somehow always manages to thwart whatever crises was threatening mankind.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/o51NY5Zjgh7ridCu93dKOdKftVy.jpg"
+        },
+        {
+            "id": 60622,
+            "title": "Fargo",
+            "year": "2014",
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "rating": 8.297,
+            "plot": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
+        },
+        {
+            "id": 1620,
+            "title": "CSI: Miami",
+            "year": "2002",
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Crime"
+            ],
+            "rating": 7.735,
+            "plot": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pNW64pjaHvf6purNaFhq4SHYRfl.jpg"
+        },
+        {
+            "id": 1606,
+            "title": "Ghost Whisperer",
+            "year": "2005",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Mystery",
+                "Drama"
+            ],
+            "rating": 8.09,
+            "plot": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg"
+        },
+        {
+            "id": 1104,
+            "title": "Mad Men",
+            "year": "2007",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 8.115,
+            "plot": "Set in 1960-1970 New York, this sexy, stylized and provocative drama follows the lives of the ruthlessly competitive men and women of Madison Avenue advertising.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg"
+        },
+        {
+            "id": 14750,
+            "title": "Na Wsp\u00f3lnej",
+            "year": "2003",
+            "genres": [
+                "Soap"
+            ],
+            "rating": 5.0,
+            "plot": "Na Wsp\u00f3lnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wsp\u00f3lna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Bar\u00e1tok k\u00f6zt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wsp\u00f3lnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wsp\u00f3lna Street.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg"
+        },
+        {
+            "id": 1855,
+            "title": "Star Trek: Voyager",
+            "year": "1995",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Drama",
+                "Action & Adventure"
+            ],
+            "rating": 7.781,
+            "plot": "Pulled to the far side of the galaxy, where the Federation is 75 years away at maximum warp speed, a Starfleet ship must cooperate with Maquis rebels to find a way home.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gNS5tRSG3UlXodCxznKKOKweqxh.jpg"
+        }
+    ],
+
+    "movies": [
+        {
+            "id": 786892,
+            "title": "Furiosa: A Mad Max Saga",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "rating": 7.713,
+            "plot": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+        },
+        {
+            "id": 1022789,
+            "title": "Inside Out 2",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Family",
+                "Adventure",
+                "Comedy"
+            ],
+            "rating": 7.71,
+            "plot": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+        },
+        {
+            "id": 653346,
+            "title": "Kingdom of the Planet of the Apes",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Adventure",
+                "Action"
+            ],
+            "rating": 6.864,
+            "plot": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+        },
+        {
+            "id": 573435,
+            "title": "Bad Boys: Ride or Die",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller",
+                "Comedy"
+            ],
+            "rating": 7.0,
+            "plot": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg"
+        },
+        {
+            "id": 704673,
+            "title": "Trigger Warning",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "rating": 5.778,
+            "plot": "A Special Forces commando uncovers a dangerous conspiracy when she returns to her hometown looking for answers into her beloved father's death.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg"
+        },
+        {
+            "id": 150540,
+            "title": "Inside Out",
+            "year": "2015",
+            "genres": [
+                "Animation",
+                "Family",
+                "Adventure",
+                "Drama",
+                "Comedy"
+            ],
+            "rating": 7.914,
+            "plot": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+        },
+        {
+            "id": 1143019,
+            "title": "The Infallibles",
+            "year": "2024",
+            "genres": [
+                "Comedy",
+                "Action"
+            ],
+            "rating": 5.783,
+            "plot": "When a gang of robbers provokes chaos in Paris and humiliates the police, the Minister of the Interior wants new blood at the helm of the investigation: Alia is from Marseille, fiery-tempered and unmanageable, Hugo is Parisian, valedictorian and meticulous. In short, they have every reason to hate each other. A forced alliance, for better or for worse, or maybe blossoming into something else?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7PoIAvL3Io5v0HyBliXfXZruQTi.jpg"
+        },
+        {
+            "id": 519182,
+            "title": "Despicable Me 4",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Family",
+                "Comedy",
+                "Action"
+            ],
+            "rating": 8.338,
+            "plot": "Gru and Lucy and their girls \u2014 Margo, Edith and Agnes \u2014 welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
+        },
+        {
+            "id": 1016346,
+            "title": "MR-9: Do or Die",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "rating": 6.573,
+            "plot": "Masud Rana is a Secret Agent with code name MR-9 of the Bangladesh Counter Intelligence Agency",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yF2g3MDacpZTMywh97qghW6Y0H4.jpg"
+        },
+        {
+            "id": 823464,
+            "title": "Godzilla x Kong: The New Empire",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Action",
+                "Adventure"
+            ],
+            "rating": 7.2,
+            "plot": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+        },
+        {
+            "id": 1001311,
+            "title": "Under Paris",
+            "year": "2024",
+            "genres": [
+                "Thriller",
+                "Horror",
+                "Action",
+                "Mystery"
+            ],
+            "rating": 6.035,
+            "plot": "In the Summer of 2024, Paris is hosting the World Triathlon Championships on the Seine for the first time. Sophia, a brilliant scientist, learns from Mika, a young environmental activist, that a large shark is swimming deep in the river. To avoid a bloodbath at the heart of the city, they have no choice but to join forces with Adil, the Seine river police commander.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg"
+        },
+        {
+            "id": 929590,
+            "title": "Civil War",
+            "year": "2024",
+            "genres": [
+                "War",
+                "Action",
+                "Drama"
+            ],
+            "rating": 7.011,
+            "plot": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
+        },
+        {
+            "id": 762441,
+            "title": "A Quiet Place:\u00a0Day One",
+            "year": "2024",
+            "genres": [
+                "Horror",
+                "Science Fiction",
+                "Thriller"
+            ],
+            "rating": 6.972,
+            "plot": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg"
+        },
+        {
+            "id": 1086747,
+            "title": "The Watchers",
+            "year": "2024",
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Fantasy"
+            ],
+            "rating": 6.512,
+            "plot": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg"
+        },
+        {
+            "id": 1011985,
+            "title": "Kung Fu Panda 4",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Action",
+                "Family",
+                "Comedy",
+                "Fantasy"
+            ],
+            "rating": 7.129,
+            "plot": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+        },
+        {
+            "id": 955555,
+            "title": "The Roundup: No Way Out",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Crime",
+                "Comedy",
+                "Thriller"
+            ],
+            "rating": 7.219,
+            "plot": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg"
+        },
+        {
+            "id": 639720,
+            "title": "IF",
+            "year": "2024",
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Family"
+            ],
+            "rating": 7.395,
+            "plot": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
+        },
+        {
+            "id": 987686,
+            "title": "A Family Affair",
+            "year": "2024",
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "rating": 6.252,
+            "plot": "The only thing worse than being the assistant to a high-maintenance movie star who doesn't take you seriously? Finding out he's smitten with your mom.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg"
+        },
+        {
+            "id": 1115623,
+            "title": "The Last Kumite",
+            "year": "2024",
+            "genres": [
+                "Action"
+            ],
+            "rating": 7.076,
+            "plot": "When Karate champion Michael Rivers wins the last tournament of his career, shady businessman Ron Hall offers him the opportunity to fight in an illegal Kumite in Bulgaria against the world\u2019s best martial artists.  When Michael declines, Hall has his daughter kidnapped and, in order to rescue her, Rivers is left with no choice but to compete in the deadly tournament. Arriving in Bulgaria, he finds out that he is not the only fighter whose loved one was taken. Rivers enlists the help of trainers Master Loren, and Julie Jackson but will it be enough for him to win the tournament and save his daughter\u2019s life?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zDkaJgsPoSqa2cMe2hW2HAfyWwO.jpg"
+        },
+        {
+            "id": 1026999,
+            "title": "Kleks Academy",
+            "year": "2024",
+            "genres": [
+                "Fantasy",
+                "Adventure",
+                "Family"
+            ],
+            "rating": 6.222,
+            "plot": "A seemingly ordinary girl finds her way into the eponymous Academy to explore the world of fairy tales, imagination and creativity. With the help of a crazy, talented teacher, she develops her unique abilities and also stumbles upon a clue that will help her unravel the biggest secret of the family...",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ymbECZscR8BTkdvXziSinMIckAz.jpg"
+        },
+        {
+            "id": 719221,
+            "title": "Tarot",
+            "year": "2024",
+            "genres": [
+                "Horror"
+            ],
+            "rating": 6.67,
+            "plot": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sS9ePS66VV2HMUPk4pyA5qAyhII.jpg"
+        },
+        {
+            "id": 614933,
+            "title": "Atlas",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Action"
+            ],
+            "rating": 6.834,
+            "plot": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg"
+        },
+        {
+            "id": 1020896,
+            "title": "Handling the Undead",
+            "year": "2024",
+            "genres": [
+                "Horror",
+                "Drama",
+                "Mystery"
+            ],
+            "rating": 6.636,
+            "plot": "On a hot summer day in Oslo, the dead mysteriously awaken, and three families are thrown into chaos when their deceased loved ones come back to them. Who are they, and what do they want?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg"
+        },
+        {
+            "id": 626412,
+            "title": "Alienoid: Return to the Future",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Adventure"
+            ],
+            "rating": 7.017,
+            "plot": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4RClncz0GTKPZzSAcAalHCw0h3g.jpg"
+        },
+        {
+            "id": 746036,
+            "title": "The Fall Guy",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Comedy"
+            ],
+            "rating": 7.273,
+            "plot": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg"
+        },
+        {
+            "id": 1280768,
+            "title": "No Time to Spy: A Loud House Movie",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Family"
+            ],
+            "rating": 5.786,
+            "plot": "Lincoln and the Louds are ecstatic to welcome their new Gran-Gran, Myrtle, into the family with a tropical wedding celebration; but the festivities are cut short when an old nemesis from Myrtle's secret agent past appears on the island.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mh4Mk95u7fdY4D4t5kRGQpQbVFy.jpg"
+        },
+        {
+            "id": 1219685,
+            "title": "An Ideal Father",
+            "year": "2024",
+            "genres": [
+                "Drama",
+                "TV Movie"
+            ],
+            "rating": 6.3,
+            "plot": "Michel, the jovial owner of the only caf\u00e9 in a small Normandy town, sees his life turned upside down when his teenage daughter is murdered. The community has his back but soon rumor spreads and Michel is singled out. From the ideal father, he becomes the ideal culprit.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4xJd3uwtL1vCuZgEfEc8JXI9Uyx.jpg"
+        },
+        {
+            "id": 693134,
+            "title": "Dune: Part Two",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Adventure"
+            ],
+            "rating": 8.168,
+            "plot": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+        },
+        {
+            "id": 1025463,
+            "title": "Bionic",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Action",
+                "Adventure"
+            ],
+            "rating": 5.641,
+            "plot": "When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg"
+        },
+        {
+            "id": 829402,
+            "title": "Ultraman: Rising",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Science Fiction",
+                "Family",
+                "Action"
+            ],
+            "rating": 8.394,
+            "plot": "A star athlete reluctantly returns home to take over his father's duties as Ultraman, shielding Tokyo from giant monsters as he becomes a legendary hero.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/j886YEkIUsiImY53px5VHKD4lRa.jpg"
+        },
+        {
+            "id": 38700,
+            "title": "Bad Boys for Life",
+            "year": "2020",
+            "genres": [
+                "Thriller",
+                "Action",
+                "Crime"
+            ],
+            "rating": 7.132,
+            "plot": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+        },
+        {
+            "id": 1136318,
+            "title": "Battle Over Britain",
+            "year": "2023",
+            "genres": [
+                "War"
+            ],
+            "rating": 7.032,
+            "plot": "A young pilot, fresh out of training, is called to join a Flight while they wait for the call to scramble. Throughout a single day, he witnesses the skies of southern England filled with deadly dog fights, and after every exhausting battle the men return to their dispersal hut, only to find another of their number missing. Unwilling to surrender, the pilot and his comrades unite to take to the skies once more, determined to defend not only the airfield, but their entire country.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8htJ7keZTwa08aC9OKyiqaq1cNJ.jpg"
+        },
+        {
+            "id": 940551,
+            "title": "Migration",
+            "year": "2023",
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Family"
+            ],
+            "rating": 7.46,
+            "plot": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg"
+        },
+        {
+            "id": 1134433,
+            "title": "Death Whisperer",
+            "year": "2023",
+            "genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "rating": 7.397,
+            "plot": "When a remote village is plagued by a deadly curse, one brother must fight to save his family from a terrifying supernatural threat.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ew0NBCY6O5ifZZKVx0AeC5jIp8t.jpg"
+        },
+        {
+            "id": 748783,
+            "title": "The Garfield Movie",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Comedy",
+                "Family",
+                "Adventure"
+            ],
+            "rating": 6.809,
+            "plot": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tSPsiMHb4edeBKZZjKDmhX18Jbs.jpg"
+        },
+        {
+            "id": 1010581,
+            "title": "My Fault",
+            "year": "2023",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "rating": 7.969,
+            "plot": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg"
+        },
+        {
+            "id": 1197406,
+            "title": "El Halc\u00f3n: Sed de Venganza",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "rating": 8.8,
+            "plot": "Criminals control Mexico and wrestling is now illegal. A retired fighter and a policewoman join forces to stop the perfidious criminal who has kidnapped her son.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nUCkSoWsL9L77HdLFLCTiEyJlO7.jpg"
+        },
+        {
+            "id": 1096197,
+            "title": "No Way Up",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Horror",
+                "Thriller"
+            ],
+            "rating": 6.47,
+            "plot": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg"
+        },
+        {
+            "id": 1147400,
+            "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+            "year": "2023",
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Action",
+                "Fantasy",
+                "Family"
+            ],
+            "rating": 7.281,
+            "plot": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg"
+        },
+        {
+            "id": 76341,
+            "title": "Mad Max: Fury Road",
+            "year": "2015",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "rating": 7.604,
+            "plot": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg"
+        },
+        {
+            "id": 1012201,
+            "title": "HAIKYU!! The Dumpster Battle",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Drama"
+            ],
+            "rating": 7.051,
+            "plot": "Shoyo Hinata joins Karasuno High's volleyball club to be like his idol, a former Karasuno player known as the 'Little Giant'. But Hinata soon learns that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles form a surprising weapon, but can their newfound teamwork defeat their rival Nekoma High in the highly anticipated 'Dumpster Battle', the long awaited ultimate showdown between two opposing underdog teams?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg"
+        },
+        {
+            "id": 7451,
+            "title": "xXx",
+            "year": "2002",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Thriller",
+                "Crime"
+            ],
+            "rating": 5.934,
+            "plot": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"
+        },
+        {
+            "id": 1058638,
+            "title": "Birth/Rebirth",
+            "year": "2023",
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller",
+                "Drama",
+                "Science Fiction"
+            ],
+            "rating": 6.403,
+            "plot": "A single mother and a childless morgue technician are bound together by their relationship to a little girl they have reanimated from the dead.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg"
+        },
+        {
+            "id": 940721,
+            "title": "Godzilla Minus One",
+            "year": "2023",
+            "genres": [
+                "Science Fiction",
+                "Horror",
+                "Action"
+            ],
+            "rating": 7.577,
+            "plot": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
+        },
+        {
+            "id": 1189205,
+            "title": "Blood and Snow",
+            "year": "2023",
+            "genres": [
+                "Science Fiction",
+                "Horror"
+            ],
+            "rating": 5.75,
+            "plot": "Scientists find meteor in Arctic. It kills one, infects the other. Nearby base takes in survivor to investigate incident. Survivor's identity raises questions.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dLb9NTP9myZfS1hTf1TOso9gyNI.jpg"
+        },
+        {
+            "id": 437342,
+            "title": "The First Omen",
+            "year": "2024",
+            "genres": [
+                "Horror"
+            ],
+            "rating": 6.805,
+            "plot": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg"
+        },
+        {
+            "id": 1197830,
+            "title": "Wild Eyed and Wicked",
+            "year": "2024",
+            "genres": [
+                "Horror",
+                "Fantasy",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "rating": 4.6,
+            "plot": "Lily Pierce is sick of being haunted. She decides to reconnect with her estranged father, a disgraced history professor, and learn how to draw upon a time of steel and blade when armor-clad knights rode out and dueled their monsters to the death.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nJMNvYZ21bMdB2Pq0qCk88jnQc6.jpg"
+        },
+        {
+            "id": 533535,
+            "title": "Deadpool & Wolverine",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Action",
+                "Comedy"
+            ],
+            "rating": 0.0,
+            "plot": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg"
+        },
+        {
+            "id": 1031516,
+            "title": "Burga",
+            "year": "2023",
+            "genres": [
+                "Horror"
+            ],
+            "rating": 8.308,
+            "plot": "Elena wakes up in a mental hospital room with no memory of anything. They tell her that she suffers from amnesia and that she suffers from paranoid schizophrenia. However, nothing is what it seems, and Elena will have to find a way to escape from there while fighting to keep her sanity and not confuse hallucinations with reality.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iUFZGYWlDU1SqfvV3ph3xrct013.jpg"
+        },
+        {
+            "id": 385687,
+            "title": "Fast X",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "rating": 7.114,
+            "plot": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+        },
+        {
+            "id": 1041613,
+            "title": "Immaculate",
+            "year": "2024",
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "rating": 6.3,
+            "plot": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg"
+        },
+        {
+            "id": 980083,
+            "title": "Top Gunner: Danger Zone",
+            "year": "2022",
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "rating": 6.1,
+            "plot": "An airliner filled with 800 passengers is forced to fly fast and low, above farmlands, suburbs and skyscraper-packed cities or the tons of explosives aboard will detonate. When an elite unit of US Air Force fighter jets is sent to provide escort, they find themselves facing a squadron of unidentifiable warplanes which ignites a deadly air battle that threatens to destroy all life above and below.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/29UCk1nvPzn2XubLk5rKDMlHBRu.jpg"
+        },
+        {
+            "id": 872585,
+            "title": "Oppenheimer",
+            "year": "2023",
+            "genres": [
+                "Drama",
+                "History"
+            ],
+            "rating": 8.092,
+            "plot": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+        },
+        {
+            "id": 355338,
+            "title": "Riley's First Date?",
+            "year": "2015",
+            "genres": [
+                "Animation",
+                "Family"
+            ],
+            "rating": 7.196,
+            "plot": "Riley, now 12, who is hanging out with her parents at home when potential trouble comes knocking. Mom's and Dad's Emotions find themselves forced to deal with Riley going on her first \"date.\"",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/cGLwfmLqg39822RFQMUDat0UJev.jpg"
+        },
+        {
+            "id": 447332,
+            "title": "A Quiet Place",
+            "year": "2018",
+            "genres": [
+                "Horror",
+                "Drama",
+                "Science Fiction"
+            ],
+            "rating": 7.399,
+            "plot": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
+        },
+        {
+            "id": 467407,
+            "title": "Kokoro to Karada",
+            "year": "2004",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 7.7,
+            "plot": "A few years ago,  when Tomomi (Hiroko Akune) was on the way home from school, she saw her friend Keiko (Misaki Mori) about to be raped by a man. Tomomi hit the man in the head with a stone and saved Keiko.  In the present, Keiko, has buried her past, sells her body in Tokyo. One day, Keiko is contacted by Tomomi. They haven't spoken since their high school graduation. They meet and Keiko lets Tomomi stay at her apartment. Soon, the bizarre lives of the two women begins, with Tomomi also selling her body.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tJSNalCgcqfI8mbI5xFveJGTQDv.jpg"
+        },
+        {
+            "id": 9737,
+            "title": "Bad Boys",
+            "year": "1995",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Crime",
+                "Thriller"
+            ],
+            "rating": 6.806,
+            "plot": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg"
+        },
+        {
+            "id": 520763,
+            "title": "A Quiet Place Part II",
+            "year": "2021",
+            "genres": [
+                "Science Fiction",
+                "Thriller",
+                "Horror"
+            ],
+            "rating": 7.498,
+            "plot": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg"
+        },
+        {
+            "id": 882059,
+            "title": "Boy Kills World",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime",
+                "Science Fiction"
+            ],
+            "rating": 6.858,
+            "plot": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/25JskXmchcYwj3jHRmcPm738MpB.jpg"
+        },
+        {
+            "id": 1192846,
+            "title": "It\u2019s for Your Own Good",
+            "year": "2024",
+            "genres": [
+                "Comedy"
+            ],
+            "rating": 7.684,
+            "plot": "Horrified by the new girlfriends of their respective sons, three sisters-in-law \u2013 Clara, a socialite, Matis, a widowed professional, and Nena, a naive housewife \u2013 make an alliance to get rid of their undesirable daughters-in-law.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/f7udxOX5DiAHFtq4pid99M65leg.jpg"
+        },
+        {
+            "id": 660360,
+            "title": "Noryang: Deadly Sea",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "History",
+                "Drama",
+                "War"
+            ],
+            "rating": 6.256,
+            "plot": "The Imjin War reaches its seventh year in December of 1598. Admiral Yi Sun-shin learns that the Wa invaders in Joseon are preparing for a swift withdrawal following the deathbed orders of their leader Toyotomi Hideyoshi. Determined to destroy the enemy once and for all, Admiral Yi leads an allied fleet of Joseon and Ming ships to mount a blockade and annihilate the Wa army. However, once Ming commander Chen Lin is bribed into lifting the blockade, Wa lord Shimazu Yoshihiro and his Satsuma army sail to the Wa army\u2019s rescue at Noryang Strait.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wFAe7gA513Pi2meI4ECwf6YEKR1.jpg"
+        },
+        {
+            "id": 634492,
+            "title": "Madame Web",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "rating": 5.583,
+            "plot": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg"
+        },
+        {
+            "id": 297802,
+            "title": "Aquaman",
+            "year": "2018",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "rating": 6.895,
+            "plot": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zdw7Wf97vsQ0YnGomxDqfcEdUjX.jpg"
+        },
+        {
+            "id": 508883,
+            "title": "The Boy and the Heron",
+            "year": "2023",
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Fantasy"
+            ],
+            "rating": 7.484,
+            "plot": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/f4oZTcfGrVTXKTWg157AwikXqmP.jpg"
+        },
+        {
+            "id": 939342,
+            "title": "A Quiet Place Part III",
+            "year": "N/A",
+            "genres": [
+                "Thriller",
+                "Science Fiction",
+                "Horror"
+            ],
+            "rating": 0.0,
+            "plot": "The third film in John Krasinski's A Quiet Place trilogy.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/czqfU7XGoEseRyl4JkQn65cNjdT.jpg"
+        },
+        {
+            "id": 601796,
+            "title": "Alienoid",
+            "year": "2022",
+            "genres": [
+                "Science Fiction",
+                "Action",
+                "Fantasy",
+                "Adventure"
+            ],
+            "rating": 6.888,
+            "plot": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg"
+        },
+        {
+            "id": 59053,
+            "title": "The Raffle",
+            "year": "1991",
+            "genres": [
+                "Drama"
+            ],
+            "rating": 6.656,
+            "plot": "Struggling with a financial crisis, a good-looking widow decides to put herself up for grabs. However, going through with it becomes almost impossible with a new love and the legal system thrown into the mix.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2Jc60w8ZemDMYqyJUStcQKy6syi.jpg"
+        },
+        {
+            "id": 974635,
+            "title": "Hit Man",
+            "year": "2024",
+            "genres": [
+                "Crime",
+                "Comedy",
+                "Romance"
+            ],
+            "rating": 7.047,
+            "plot": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg"
+        },
+        {
+            "id": 1284004,
+            "title": "May the 12th Be with You",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "rating": 5.456,
+            "plot": "It's Mother's Day and Marge Simpson joins the moms of Disney+ on a special holiday outing that turns into an epic galactic adventure filled with heroes, villains, and Stewie from Family Guy.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sHJ2OIgpcpSmhqXkuSWxZ3nwg1S.jpg"
+        },
+        {
+            "id": 359410,
+            "title": "Road House",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "rating": 7.005,
+            "plot": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lwPsIgh98Wnpvkr3svkZwlhDrfm.jpg"
+        },
+        {
+            "id": 577922,
+            "title": "Tenet",
+            "year": "2020",
+            "genres": [
+                "Action",
+                "Thriller",
+                "Science Fiction"
+            ],
+            "rating": 7.186,
+            "plot": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg"
+        },
+        {
+            "id": 218,
+            "title": "The Terminator",
+            "year": "1984",
+            "genres": [
+                "Action",
+                "Thriller",
+                "Science Fiction"
+            ],
+            "rating": 7.668,
+            "plot": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg"
+        },
+        {
+            "id": 787699,
+            "title": "Wonka",
+            "year": "2023",
+            "genres": [
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "rating": 7.165,
+            "plot": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+        },
+        {
+            "id": 405774,
+            "title": "Bird Box",
+            "year": "2018",
+            "genres": [
+                "Horror",
+                "Thriller",
+                "Drama"
+            ],
+            "rating": 6.841,
+            "plot": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg"
+        },
+        {
+            "id": 1239251,
+            "title": "Megamind vs. the Doom Syndicate",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Comedy",
+                "Science Fiction"
+            ],
+            "rating": 4.971,
+            "plot": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg"
+        },
+        {
+            "id": 739547,
+            "title": "Thelma the Unicorn",
+            "year": "2024",
+            "genres": [
+                "Animation",
+                "Fantasy",
+                "Family"
+            ],
+            "rating": 7.018,
+            "plot": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg"
+        },
+        {
+            "id": 984324,
+            "title": "The Wages of Fear",
+            "year": "2024",
+            "genres": [
+                "Action"
+            ],
+            "rating": 6.146,
+            "plot": "When an explosion at an oil well threatens hundreds of lives, a crack team is called upon to make a deadly desert crossing with nitroglycerine in tow.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dIU1oCqyWHSFrfwuB4NKeGaJ9Aw.jpg"
+        },
+        {
+            "id": 934632,
+            "title": "Rebel Moon - Part Two: The Scargiver",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Action",
+                "Drama"
+            ],
+            "rating": 6.124,
+            "plot": "The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge \u2014 and legends are made.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/cxevDYdeFkiixRShbObdwAHBZry.jpg"
+        },
+        {
+            "id": 967847,
+            "title": "Ghostbusters: Frozen Empire",
+            "year": "2024",
+            "genres": [
+                "Fantasy",
+                "Adventure",
+                "Comedy"
+            ],
+            "rating": 6.699,
+            "plot": "When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg"
+        },
+        {
+            "id": 414906,
+            "title": "The Batman",
+            "year": "2022",
+            "genres": [
+                "Crime",
+                "Mystery",
+                "Thriller"
+            ],
+            "rating": 7.678,
+            "plot": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+        },
+        {
+            "id": 1094844,
+            "title": "Ape vs Mecha Ape",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Science Fiction"
+            ],
+            "rating": 5.8,
+            "plot": "Recognizing the destructive power of its captive giant Ape, the military makes its own battle-ready A.I., Mecha Ape. But its first practical test goes horribly wrong, leaving the military no choice but to release the imprisoned giant ape to stop the colossal robot before it destroys downtown Chicago.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dJaIw8OgACelojyV6YuVsOhtTLO.jpg"
+        },
+        {
+            "id": 1022796,
+            "title": "Wish",
+            "year": "2023",
+            "genres": [
+                "Animation",
+                "Family",
+                "Fantasy",
+                "Adventure"
+            ],
+            "rating": 6.399,
+            "plot": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force \u2013 a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vgJZSqKMXWDDx09iSIStGKfHMku.jpg"
+        },
+        {
+            "id": 438631,
+            "title": "Dune",
+            "year": "2021",
+            "genres": [
+                "Science Fiction",
+                "Adventure"
+            ],
+            "rating": 7.783,
+            "plot": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+        },
+        {
+            "id": 346698,
+            "title": "Barbie",
+            "year": "2023",
+            "genres": [
+                "Comedy",
+                "Adventure"
+            ],
+            "rating": 7.046,
+            "plot": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+        },
+        {
+            "id": 996154,
+            "title": "Black Lotus",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Crime",
+                "Mystery",
+                "Thriller"
+            ],
+            "rating": 6.516,
+            "plot": "An ex-special forces operative wages a one man war through the streets of Amsterdam to rescue his friend's daughter from the local crime syndicate.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/y3AeW200hqGLxoPyHMDHpzudylz.jpg"
+        },
+        {
+            "id": 293660,
+            "title": "Deadpool",
+            "year": "2016",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "rating": 7.6,
+            "plot": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg"
+        },
+        {
+            "id": 920342,
+            "title": "Monster's Battlefield",
+            "year": "2021",
+            "genres": [
+                "Science Fiction"
+            ],
+            "rating": 6.6,
+            "plot": "The soldier king Qin Yang's fiance\u0301e Ye Qin met with an unknown beast and died tragically. Gu Ping invites him to participate in Ye Qin's scientific research before her death. But Gu Ping is using Ye Qin's research results to combine the genes of unknown beasts to create the \"Zero\" dragon creature. The intelligent dragon creature, coupled with the extra-terrestrial beast evolved by devouring,  an imminent city war is coming...",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nBVYp2xxx2R02n21EGlDky8CgWR.jpg"
+        },
+        {
+            "id": 976573,
+            "title": "Elemental",
+            "year": "2023",
+            "genres": [
+                "Animation",
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Romance"
+            ],
+            "rating": 7.651,
+            "plot": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+        },
+        {
+            "id": 1305928,
+            "title": "The Cult",
+            "year": "2024",
+            "genres": [
+                "Horror"
+            ],
+            "rating": 0.0,
+            "plot": "When a young woman relocates to a small town in Europe, she notices the place has something weird. As time goes by, she starts to fear for her life. Based on actual events and in the book the day she became plastic.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mmDEyYd66Et6GsuB0Etj9ifQwTr.jpg"
+        },
+        {
+            "id": 502356,
+            "title": "The Super Mario Bros. Movie",
+            "year": "2023",
+            "genres": [
+                "Animation",
+                "Family",
+                "Adventure",
+                "Fantasy",
+                "Comedy"
+            ],
+            "rating": 7.674,
+            "plot": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
+        },
+        {
+            "id": 508947,
+            "title": "Turning Red",
+            "year": "2022",
+            "genres": [
+                "Animation",
+                "Family",
+                "Comedy",
+                "Fantasy"
+            ],
+            "rating": 7.4,
+            "plot": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist \u2013 when she gets too excited, she transforms into a giant red panda.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+        },
+        {
+            "id": 858017,
+            "title": "I Saw the TV Glow",
+            "year": "2024",
+            "genres": [
+                "Drama",
+                "Horror"
+            ],
+            "rating": 5.776,
+            "plot": "Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show \u2014 a vision of a supernatural world beneath their own. In the pale glow of the television, Owen\u2019s view of reality begins to crack.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg"
+        },
+        {
+            "id": 635302,
+            "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+            "year": "2020",
+            "genres": [
+                "Action",
+                "Animation",
+                "Adventure",
+                "Fantasy",
+                "Thriller"
+            ],
+            "rating": 8.23,
+            "plot": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
+        },
+        {
+            "id": 603692,
+            "title": "John Wick: Chapter 4",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "rating": 7.741,
+            "plot": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+        },
+        {
+            "id": 43074,
+            "title": "Ghostbusters",
+            "year": "2016",
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Comedy"
+            ],
+            "rating": 5.361,
+            "plot": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg"
+        },
+        {
+            "id": 1279104,
+            "title": "The Legend of Catclaws Mountain",
+            "year": "2024",
+            "genres": [
+                "Fantasy",
+                "Family"
+            ],
+            "rating": 6.7,
+            "plot": "Mindy adopts Angel, a high-spirited pony that\u2014according to legend\u2014will lead its owner to gold hidden in the nearby mountains. When Angel is kidnapped by a mad treasure hunter, Mindy and her school friends head into the hills to rescue the pony and hunt for the lost gold. But Mindy meets a mountain man that warns her the treasure is part of an ancient curse\u2014if they remove the gold, they'll destroy the beautiful forest.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4T3Gz4ZC8H6kaEpq56S4j3mI40L.jpg"
+        },
+        {
+            "id": 298618,
+            "title": "The Flash",
+            "year": "2023",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "rating": 6.73,
+            "plot": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
+        },
+        {
+            "id": 1093995,
+            "title": "Chief of Station",
+            "year": "2024",
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "rating": 5.49,
+            "plot": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uuA01PTtPombRPvL9dvsBqOBJWm.jpg"
+        },
+        {
+            "id": 1111873,
+            "title": "Abigail",
+            "year": "2024",
+            "genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "rating": 6.8,
+            "plot": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg"
+        },
+        {
+            "id": 843527,
+            "title": "The Idea of You",
+            "year": "2024",
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "rating": 7.397,
+            "plot": "40-year-old single mom Sol\u00e8ne begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Sol\u00e8ne soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg"
+        },
+        {
+            "id": 299537,
+            "title": "Captain Marvel",
+            "year": "2019",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "rating": 6.82,
+            "plot": "The story follows Carol Danvers as she becomes one of the universe\u2019s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Breathe",
+            "year": "2024",
+            "genres": [
+                "Science Fiction",
+                "Mystery",
+                "Thriller"
+            ],
+            "rating": 5.253,
+            "plot": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.",
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg"
+        }
+    ]
+}
