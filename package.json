@@ -11,6 +11,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "cors": "^2.8.5",
+    "express": "^4.17.1",
     "framer-motion": "^11.2.13",
     "json-server": "^1.0.0-beta.1",
     "react": "^18.3.1",
@@ -20,15 +21,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "json-server": "json-server --watch db.json --port 5001",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://mujtabamft7.github.io/MAStudios",
+  "homepage": "https://mujtabamft7.github.io/",
   "eslintConfig": {
     "extends": [
       "react-app",
