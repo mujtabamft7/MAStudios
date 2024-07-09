@@ -6,7 +6,7 @@ const TvShowsListing = () => {
   const [expandedShowId, setExpandedShowId] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:5001/tvShows')
+    fetch('https://json-server-render-j2c0.onrender.com/tvShows')
       .then(response => response.json())
       .then(data => setTVShows(data.slice(0, 102))) 
       .catch(error => console.error('Error fetching TV shows:', error));

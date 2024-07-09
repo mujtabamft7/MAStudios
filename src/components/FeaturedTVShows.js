@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import '../App.css'; // Ensure this is pointing to your global CSS
+import '../App.css'; 
 
 const FeaturedTVShows = () => {
   const [tvShows, setTVShows] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5001/tvShows')
+    fetch('https://json-server-render-j2c0.onrender.com/tvShows')
       .then(response => response.json())
-      .then(data => setTVShows(data.slice(0, 12))) // Limit to 12 TV shows
+      .then(data => setTVShows(data.slice(0, 12))) 
       .catch(error => console.error('Error fetching TV shows:', error));
   }, []);
 

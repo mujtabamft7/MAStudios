@@ -6,7 +6,7 @@ const MoviesListingPage = () => {
   const [expandedMovieId, setExpandedMovieId] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:5001/movies')
+    fetch('https://json-server-render-j2c0.onrender.com/movies')
       .then(response => response.json())
       .then(data => setMovies(data.slice(0, 102))) 
       .catch(error => console.error('Error fetching movies:', error));
@@ -30,7 +30,7 @@ const MoviesListingPage = () => {
                   <Text textAlign="center"color="black">Year: {movie.year}</Text>
                   <Text textAlign="center"color="black">Rating: {movie.rating}</Text>
                 </Stack>
-                {expandedMovieId === movie.id && (
+                {expandedMovieId === movie.id &&  (
                   <Stack mt="6" spacing="3">
                     <Text>{movie.plot}</Text>
                     <Text color="black" fontSize="md">Genre: {movie.genres.join(', ')}</Text>

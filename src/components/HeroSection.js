@@ -7,7 +7,7 @@ const HeroSection = () => {
   const itemsPerSlide = 2;
 
   useEffect(() => {
-    fetch('http://localhost:5001/movies')
+    fetch('https://json-server-render-j2c0.onrender.com/movies')
       .then(response => response.json())
       .then(data => setMovies(data.slice(0, 102)))
       .catch(error => console.error('Error fetching movies:', error));

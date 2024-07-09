@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import '../App.css'; // Ensure this is pointing to your global CSS
+import '../App.css'; 
 
 const FeaturedMovies = () => {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5001/movies')
+    fetch('https://json-server-render-j2c0.onrender.com/movies')
       .then(response => response.json())
-      .then(data => setMovies(data.slice(0, 12))) // Limit to 10 movies
+      .then(data => setMovies(data.slice(0, 12)))
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 
