@@ -8,8 +8,8 @@ const Footer = () => (
         <h4>Watch</h4>
         <ul>
           <li><a href="https://www.example.com/spotlight">Spotlight</a></li>
-          <li><a href="/movies">Movies</a></li>
-          <li><a href="/tvshows">TV</a></li>
+          <li><Link to="/movies">Movies</Link></li>
+          <li><Link to="/tvshows">TV</Link></li>
           <li><a href="https://www.example.com/free">Free</a></li>
         </ul>
       </div>
