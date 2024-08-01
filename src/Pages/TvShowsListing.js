@@ -3,7 +3,7 @@ import {
   Box, Image, Text, Heading, Grid, GridItem, Card, CardBody, Stack, Divider, CardFooter,
   ButtonGroup, Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter, useDisclosure, Input, InputGroup, InputRightElement
 } from '@chakra-ui/react';
-import { getAllTVShows, searchTVShowsByTitle } from '../Axios'; // Import Axios functions
+
 
 const TvShowsListing = () => {
   const [tvShows, setTVShows] = useState([]);
