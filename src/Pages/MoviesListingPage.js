@@ -3,7 +3,7 @@ import {
   Box, Image, Text, Heading, Grid, GridItem, Card, CardBody, Stack, Divider, CardFooter,
   ButtonGroup, Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter, useDisclosure, Input
 } from '@chakra-ui/react';
-import { getAllMovies } from '../Axios'; // Import Axios function
+
 
 const MoviesListingPage = () => {
   const [movies, setMovies] = useState([]);
@@ -12,8 +12,9 @@ const MoviesListingPage = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    getAllMovies()
-      .then(response => setMovies(response.data.slice(0, 1000))) // Adjust the slicing as needed
+    fetch('https://video-backend-y112.onrender.com/api/movies')
+      .then(response => response.json())
+      .then(data => setMovies(data.slice(0, 1000)))
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 

@@ -12,8 +12,9 @@ const TvShowsListing = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    getAllTVShows()
-      .then(response => setTVShows(response.data.slice(0, 1000))) // Adjust the slicing as needed
+    fetch('https://video-backend-y112.onrender.com/api/tvshows')
+      .then(response => response.json())
+      .then(data => setTVShows(data.slice(0, 1000))) 
       .catch(error => console.error('Error fetching TV shows:', error));
   }, []);
 
@@ -49,9 +50,7 @@ const TvShowsListing = () => {
           style={{ color: 'orange' }}
         />
         <InputRightElement width="4.5rem">
-          <Button h="1.75rem" size="sm" onClick={handleSearch}>
-            Search
-          </Button>
+         
         </InputRightElement>
       </InputGroup>
       <Grid templateColumns={{ base: "1fr", md: "repeat(2, 1fr)", lg: "repeat(3, 1fr)", xl: "repeat(6, 1fr)" }} gap={6}>
