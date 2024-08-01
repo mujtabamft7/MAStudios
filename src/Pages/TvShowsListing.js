@@ -18,17 +18,17 @@ const TvShowsListing = () => {
       .catch(error => console.error('Error fetching TV shows:', error));
   }, []);
 
-  const handleSearch = () => {
-    if (searchTerm.trim() === '') {
-      getAllTVShows()
-        .then(response => setTVShows(response.data.slice(0, 102)))
-        .catch(error => console.error('Error fetching TV shows:', error));
-    } else {
-      searchTVShowsByTitle(searchTerm)
-        .then(response => setTVShows(response.data))
-        .catch(error => console.error('Error searching for TV shows:', error));
-    }
-  };
+  // const handleSearch = () => {
+  //   if (searchTerm.trim() === '') {
+  //     getAllTVShows()
+  //       .then(response => setTVShows(response.data.slice(0, 102)))
+  //       .catch(error => console.error('Error fetching TV shows:', error));
+  //   } else {
+  //     searchTVShowsByTitle(searchTerm)
+  //       .then(response => setTVShows(response.data))
+  //       .catch(error => console.error('Error searching for TV shows:', error));
+  //   }
+  // };
 
   const handleViewDetails = (show) => {
     setSelectedShow(show);
