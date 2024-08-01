@@ -1,7 +1,7 @@
-// src/Pages/LoginPage.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Box, FormControl, FormLabel, Input, Button, Text, Link } from '@chakra-ui/react';
+import { loginCustomer } from '../Axios'; // Import the Axios function
 
 const LoginPage = () => {
   const [email, setEmail] = useState('');
@@ -19,11 +19,19 @@ const LoginPage = () => {
     if (Object.keys(validationErrors).length > 0) {
       setErrors(validationErrors);
     } else {
-      setEmail('');
-      setPassword('');
-      setErrors({});
-      alert('You are signed in! Redirecting you to the home page.');
-      navigate('/');
+      const loginData = { email, password };
+      loginCustomer(loginData)
+        .then(response => {
+          setEmail('');
+          setPassword('');
+          setErrors({});
+          alert('You are signed in! Redirecting you to the home page.');
+          navigate('/');
+        })
+        .catch(error => {
+          console.error('There was an error logging in the customer!', error);
+          setErrors({ form: 'Invalid email or password. Please try again.' });
+        });
     }
   };
 
@@ -42,6 +50,7 @@ const LoginPage = () => {
             <Input type="password" value={password} onChange={(e) => setPassword(e.target.value)} />
             {errors.password && <Text color="red.500">{errors.password}</Text>}
           </FormControl>
+          {errors.form && <Text color="red.500">{errors.form}</Text>}
           <Button colorScheme="orange" width="100%" mb={4} type="submit">Sign In</Button>
           <Link href="#" color="orange.500" textAlign="center" display="block" mb={4}>Forgot your password?</Link>
           <Text textAlign="center">Or</Text>

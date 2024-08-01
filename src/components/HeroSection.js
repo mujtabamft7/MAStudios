@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../App.css';
+import { getAllMovies } from '../Axios'; // Import Axios function
 
 const HeroSection = () => {
   const [movies, setMovies] = useState([]);
@@ -7,18 +8,17 @@ const HeroSection = () => {
   const itemsPerSlide = 2;
 
   useEffect(() => {
-    fetch('https://json-server-render-j2c0.onrender.com/movies')
-      .then(response => response.json())
-      .then(data => setMovies(data.slice(0, 102)))
+    getAllMovies()
+      .then(response => setMovies(response.data))
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + itemsPerSlide) % movies.length);
-    }, 3000); 
+    }, 3000);
 
-    return () => clearInterval(interval); 
+    return () => clearInterval(interval);
   }, [movies.length]);
 
   const getCurrentSlides = () => {

@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import '../App.css'; 
+import '../App.css';
+import { getAllTVShows } from '../Axios'; // Import Axios function
 
 const FeaturedTVShows = () => {
   const [tvShows, setTVShows] = useState([]);
 
   useEffect(() => {
-    fetch('https://json-server-render-j2c0.onrender.com/tvShows')
-      .then(response => response.json())
-      .then(data => setTVShows(data.slice(0, 12))) 
+    getAllTVShows()
+      .then(response => setTVShows(response.data.slice(0, 12))) // Slice the data to get the first 12 items
       .catch(error => console.error('Error fetching TV shows:', error));
   }, []);
 
@@ -16,7 +16,7 @@ const FeaturedTVShows = () => {
       <h2>Featured TV Shows</h2>
       <div className="tv-show-grid">
         {tvShows.map((show) => (
-          <div className="tv-show-item" key={show.id}>
+          <div className="tv-show-item" key={show.showId}>
             <div className="cf">
               <img src={show.posterUrl} alt={show.title} className="bottom" />
               <div className="top">

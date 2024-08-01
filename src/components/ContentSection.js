@@ -10,7 +10,7 @@ const ContentSection = () => (
   <p style={{ fontSize: '1rem', color: 'white', fontWeight: 'bold', textAlign: 'center', margin: '20px 0' }}>
   Welcome to the Digital Video Store. We provide the best movies and TV shows from around the world.
 </p>
-    {/* Add more static content as needed */}
+    
   </section>
 );
 

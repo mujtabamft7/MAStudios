@@ -1,7 +1,7 @@
-// src/Pages/RegistrationPage.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Box, FormControl, FormLabel, Input, Button, Text, Stack } from '@chakra-ui/react';
+import { registerCustomer } from '../Axios'; // Import the Axios function
 
 const RegistrationPage = () => {
   const [firstName, setFirstName] = useState('');
@@ -23,13 +23,21 @@ const RegistrationPage = () => {
     if (Object.keys(validationErrors).length > 0) {
       setErrors(validationErrors);
     } else {
-      setFirstName('');
-      setLastName('');
-      setEmail('');
-      setPassword('');
-      setErrors({});
-      alert('Sign up complete! Redirecting you to the sign in page.');
-      navigate('/login');
+      const customerData = { firstName, lastName, email, password };
+      registerCustomer(customerData)
+        .then(response => {
+          setFirstName('');
+          setLastName('');
+          setEmail('');
+          setPassword('');
+          setErrors({});
+          alert('Sign up complete! Redirecting you to the sign-in page.');
+          navigate('/login');
+        })
+        .catch(error => {
+          console.error('There was an error registering the customer!', error);
+          setErrors({ form: 'There was an error registering. Please try again.' });
+        });
     }
   };
 
@@ -59,6 +67,7 @@ const RegistrationPage = () => {
               <Input type="password" value={password} onChange={(e) => setPassword(e.target.value)} />
               {errors.password && <Text color="red.500">{errors.password}</Text>}
             </FormControl>
+            {errors.form && <Text color="red.500">{errors.form}</Text>}
           </Stack>
           <Button colorScheme="orange" width="100%" mt={4} type="submit">Sign Up</Button>
         </form>
