@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../App.css';
-import { getAllMovies } from '../Axios'; // Import Axios function
+
 
 const HeroSection = () => {
   const [movies, setMovies] = useState([]);
@@ -8,8 +8,9 @@ const HeroSection = () => {
   const itemsPerSlide = 2;
 
   useEffect(() => {
-    getAllMovies()
-      .then(response => setMovies(response.data))
+    fetch('https://video-backend-y112.onrender.com/api/movies')
+      .then(response => response.json())
+      .then(data => setMovies(data.slice(0, 1000)))
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 
@@ -41,7 +42,7 @@ const HeroSection = () => {
         ))}
       </div>
       <div className="hero-text">
-        <h1>BLACK & WHITE CINEMA</h1>
+        <h1>BLACK & ORANGE CINEMA</h1>
         <p>Mix & Match 2 for $9.99</p>
       </div>
     </section>

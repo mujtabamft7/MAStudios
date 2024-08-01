@@ -1,27 +1,27 @@
-// import axios from 'axios';
+import axios from 'axios';
 
-// const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://video-backend-y112.onrender.com/api';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://video-backend-y112.onrender.com/api';
 
-// // Customer API
-// export const registerCustomer = (customerData) => {
-//     return axios.post(`${API_BASE_URL}/customers/register`, customerData);
-// };
+// Customer API
+export const registerCustomer = (customerData) => {
+    return axios.post(`${API_BASE_URL}/customers/register`, customerData);
+};
 
-// export const loginCustomer = (loginData) => {
-//     return axios.post(`${API_BASE_URL}/customers/login`, loginData);
-// };
+export const loginCustomer = (loginData) => {
+    return axios.post(`${API_BASE_URL}/customers/login`, loginData);
+};
 
-// export const getAllCustomers = () => {
-//     return axios.get(`${API_BASE_URL}/customers`);
-// };
+export const getAllCustomers = () => {
+    return axios.get(`${API_BASE_URL}/customers`);
+};
 
-// export const getCustomerById = (customerId) => {
-//     return axios.get(`${API_BASE_URL}/customers/${customerId}`);
-// };
+export const getCustomerById = (customerId) => {
+    return axios.get(`${API_BASE_URL}/customers/${customerId}`);
+};
 
-// export const deleteCustomerById = (customerId) => {
-//     return axios.delete(`${API_BASE_URL}/customers/${customerId}`);
-// };
+export const deleteCustomerById = (customerId) => {
+    return axios.delete(`${API_BASE_URL}/customers/${customerId}`);
+};
 
 // // Movie API
 // export const createMovie = (movieData) => {
