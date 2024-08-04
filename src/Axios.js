@@ -2,26 +2,39 @@ import axios from 'axios';
 
 const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://video-backend-y112.onrender.com/api';
 
+// Create an Axios instance with CORS configuration
+const axiosInstance = axios.create({
+  baseURL: API_BASE_URL,
+  headers: {
+    'Content-Type': 'application/json',
+    'Access-Control-Allow-Origin': '*',
+  },
+  withCredentials: true,
+});
+
 // Customer API
 export const registerCustomer = (customerData) => {
-    return axios.post(`${API_BASE_URL}/customers/register`, customerData);
+  return axiosInstance.post('/customers/register', customerData);
 };
 
 export const loginCustomer = (loginData) => {
-    return axios.post(`${API_BASE_URL}/customers/login`, loginData);
+  return axiosInstance.post('/customers/login', loginData);
 };
 
 export const getAllCustomers = () => {
-    return axios.get(`${API_BASE_URL}/customers`);
+  return axiosInstance.get('/customers');
 };
 
 export const getCustomerById = (customerId) => {
-    return axios.get(`${API_BASE_URL}/customers/${customerId}`);
+  return axiosInstance.get(`/customers/${customerId}`);
 };
 
 export const deleteCustomerById = (customerId) => {
-    return axios.delete(`${API_BASE_URL}/customers/${customerId}`);
+  return axiosInstance.delete(`/customers/${customerId}`);
 };
+
+export default axiosInstance;
+
 
 // // Movie API
 // export const createMovie = (movieData) => {
