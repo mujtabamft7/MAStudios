@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../App.css';
-
+import { getAllMovies } from '../Axios'; // Import Axios function
 
 const HeroSection = () => {
   const [movies, setMovies] = useState([]);
@@ -8,9 +8,8 @@ const HeroSection = () => {
   const itemsPerSlide = 2;
 
   useEffect(() => {
-    fetch('https://video-backend-y112.onrender.com/api/movies')
-      .then(response => response.json())
-      .then(data => setMovies(data.slice(0, 1000)))
+    getAllMovies()
+      .then(response => setMovies(response.data.slice(0, 1000)))
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 

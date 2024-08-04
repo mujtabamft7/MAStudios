@@ -3,7 +3,7 @@ import {
   Box, Image, Text, Heading, Grid, GridItem, Card, CardBody, Stack, Divider, CardFooter,
   ButtonGroup, Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter, useDisclosure, Input, InputGroup, InputRightElement
 } from '@chakra-ui/react';
-
+import { getAllTVShows } from '../Axios'; // Import Axios functions
 
 const TvShowsListing = () => {
   const [tvShows, setTVShows] = useState([]);
@@ -12,16 +12,15 @@ const TvShowsListing = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('https://video-backend-y112.onrender.com/api/tvshows')
-      .then(response => response.json())
-      .then(data => setTVShows(data.slice(0, 1000))) 
+    getAllTVShows()
+      .then(response => setTVShows(response.data.slice(0, 1000))) 
       .catch(error => console.error('Error fetching TV shows:', error));
   }, []);
 
   // const handleSearch = () => {
   //   if (searchTerm.trim() === '') {
   //     getAllTVShows()
-  //       .then(response => setTVShows(response.data.slice(0, 102)))
+  //       .then(response => setTVShows(response.data.slice(0, 1000)))
   //       .catch(error => console.error('Error fetching TV shows:', error));
   //   } else {
   //     searchTVShowsByTitle(searchTerm)

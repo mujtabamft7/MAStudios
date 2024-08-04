@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import '../App.css'; 
+import { getAllMovies } from '../Axios'; // Import Axios function
 
 const FeaturedMovies = () => {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    fetch('https://video-backend-y112.onrender.com/api/movies')
-      .then(response => response.json())
-      .then(data => setMovies(data.slice(0, 12)))
+    getAllMovies()
+      .then(response => setMovies(response.data.slice(0, 12))) 
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 
@@ -16,7 +16,7 @@ const FeaturedMovies = () => {
       <h2>Featured Movies</h2>
       <div className="movie-grid">
         {movies.map((movie) => (
-          <div className="movie-item" key={movie.id}>
+          <div className="movie-item" key={movie.movieId}>
             <div className="cf">
               <img src={movie.posterUrl} alt={movie.title} className="bottom" />
               <div className="top">
