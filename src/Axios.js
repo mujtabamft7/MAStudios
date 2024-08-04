@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://video-backend-y112.onrender.com/api';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://video-backend-y112.onrender.com';
 
 // Create an Axios instance with CORS configuration
 const axiosInstance = axios.create({
