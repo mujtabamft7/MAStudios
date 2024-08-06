@@ -13,7 +13,7 @@ const MoviesListingPage = () => {
 
   useEffect(() => {
     getAllMovies()
-      .then(response => setMovies(response.data.slice(0, 1000))) 
+      .then(response => setMovies(response.data.slice(0, 100))) 
       .catch(error => console.error('Error fetching movies:', error));
   }, []);
 
@@ -21,8 +21,6 @@ const MoviesListingPage = () => {
     setSelectedMovie(movie);
     onOpen();
   };
-
- 
 
   const filteredMovies = movies.filter(movie =>
     movie.title.toLowerCase().includes(searchTerm.toLowerCase())
@@ -38,8 +36,10 @@ const MoviesListingPage = () => {
         style={{ color: 'orange' }} 
         mb="20px"
       />
-      
-      <Grid templateColumns={{ base: "1fr", md: "repeat(2, 1fr)", lg: "repeat(3, 1fr)", xl: "repeat(6, 1fr)" }} gap={6}>
+      <Grid 
+        templateColumns={{ base: "1fr", sm: "repeat(2, 1fr)", md: "repeat(3, 1fr)", lg: "repeat(4, 1fr)", xl: "repeat(6, 1fr)" }} 
+        gap={6}
+      >
         {filteredMovies.map((movie) => (
           <GridItem key={movie.movieId}>
             <Card maxW="sm" bg="grey" color="orange" boxShadow="lg" borderRadius="lg">
@@ -49,6 +49,7 @@ const MoviesListingPage = () => {
                   <Heading size="md" textAlign="center">{movie.title}</Heading>
                   <Text textAlign="center" color="black">Year: {movie.year}</Text>
                   <Text textAlign="center" color="black">Rating: {movie.rating}</Text>
+                 
                 </Stack>
               </CardBody>
               <Divider />
@@ -78,6 +79,8 @@ const MoviesListingPage = () => {
               <Text mt="4" color="black" fontSize="md">Rating: {selectedMovie.rating}</Text>
               <Text mt="4" color="black" fontSize="md">Rent: ${selectedMovie.rent}</Text>
               <Text mt="4" color="black" fontSize="md">Buy: ${selectedMovie.buy}</Text>
+         
+            
             </ModalBody>
             <ModalFooter>
               <Button colorScheme="orange" mr="3" onClick={onClose}>

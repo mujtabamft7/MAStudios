@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
   Box, Image, Text, Heading, Grid, GridItem, Card, CardBody, Stack, Divider, CardFooter,
-  ButtonGroup, Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter, useDisclosure, Input, InputGroup, InputRightElement
+  ButtonGroup, Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter, useDisclosure, Input
 } from '@chakra-ui/react';
 import { getAllTVShows } from '../Axios'; // Import Axios functions
 
@@ -17,18 +17,6 @@ const TvShowsListing = () => {
       .catch(error => console.error('Error fetching TV shows:', error));
   }, []);
 
-  // const handleSearch = () => {
-  //   if (searchTerm.trim() === '') {
-  //     getAllTVShows()
-  //       .then(response => setTVShows(response.data.slice(0, 1000)))
-  //       .catch(error => console.error('Error fetching TV shows:', error));
-  //   } else {
-  //     searchTVShowsByTitle(searchTerm)
-  //       .then(response => setTVShows(response.data))
-  //       .catch(error => console.error('Error searching for TV shows:', error));
-  //   }
-  // };
-
   const handleViewDetails = (show) => {
     setSelectedShow(show);
     onOpen();
@@ -41,18 +29,17 @@ const TvShowsListing = () => {
   return (
     <Box p="20px">
       <Heading as="h2" size="xl" mb="20px" color="orange" textAlign="center">All TV Shows</Heading>
-      <InputGroup mb="20px">
-        <Input
-          placeholder="Search for a TV show..."
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-          style={{ color: 'orange' }}
-        />
-        <InputRightElement width="4.5rem">
-         
-        </InputRightElement>
-      </InputGroup>
-      <Grid templateColumns={{ base: "1fr", md: "repeat(2, 1fr)", lg: "repeat(3, 1fr)", xl: "repeat(6, 1fr)" }} gap={6}>
+      <Input
+        placeholder="Search for a TV show..."
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+        style={{ color: 'orange' }}
+        mb="20px"
+      />
+      <Grid 
+        templateColumns={{ base: "1fr", sm: "repeat(2, 1fr)", md: "repeat(3, 1fr)", lg: "repeat(4, 1fr)", xl: "repeat(6, 1fr)" }} 
+        gap={6}
+      >
         {filteredTVShows.map((show) => (
           <GridItem key={show.showId}>
             <Card maxW="sm" bg="grey" color="orange" boxShadow="lg" borderRadius="lg">
